@@ -1,0 +1,9 @@
+.left {
+  position: relative;
+}
+.reading {
+  position: relative;
+
+  background-color: black;
+  opacity: 0.5;
+}
